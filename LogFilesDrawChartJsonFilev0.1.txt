@@ -1,0 +1,1 @@
+[{"id":"4b775497.679e1c","type":"function","z":"b28b12de.4ef58","name":"","func":"msg.payload2=flow.get('selectedArr')||0;\n\nreturn msg;","outputs":1,"noerr":0,"x":380.5,"y":58,"wires":[["43267daa.88d354"]]}]
